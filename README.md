@@ -3,7 +3,7 @@
   improve my knowledge in Python programming and data analisys.
 - 👀 I’m interested in Geoinformatics(data moddeling, geostatistics, data structrue, algorithms), Formula 1, Tennis
 - 🌱 I’m currently learning Python programming and how to use GitHub
-- 🔭 I'm currently working on rzeszowapp
+- 🔭 I'm currently working on Azure_pwr
 - 📫 How to reach me: 
   - email: maciek.niemiec9@wp.pl
   - LinkedIn: https://www.linkedin.com/in/maciej-niemiec-750b20223/
